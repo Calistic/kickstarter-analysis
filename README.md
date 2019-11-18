@@ -1,16 +1,18 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kistarter data to uncover trends
 
-## Summary
-
 ## Reasonable Conclusions from the Data
 
 * Regarding Theater: May is the best month to have run a fundraiser. December is the worst month to run a fundraiser.
   - Assumptions: This could be caused by shorter days. Unfortunately there is not enough data from the southern hemisphere (more daylight in December) to compare to the northern hemisphere. This could also be caused by December being in the middle of the "holiday season". Perhaps people prioritize other charities/fundraisers. 
 
+![Theater: Outcomes Based on Date](https://github.com/Calistic/kickstarter-analysis/blob/master/Module%201%20HW%20-%20Outcomes%20Based%20on%20Launch%20Date.png)
+
 * Regarding Plays: Fundraisers with a goal less than $5,000 have the highest success rate, 76%. Fundraisers with a goal between $45,000 and $50,000 have the lowest success rate, 0%.
 
 * Regarding Plays: The top 2 fundraisers raised more than the lowest 509 fundraisers. It would be a worthy time investment to understand why these two fundraisers performed this well.
+
+![Plays: Outcomes Based on Goals](https://github.com/Calistic/kickstarter-analysis/blob/master/Module%201%20HW%20-%20Outcomes%20Based%20on%20Goals.png)
 
 ## Limitations and suggestions for additional tables of graphs
 
