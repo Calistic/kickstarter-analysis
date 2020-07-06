@@ -21,5 +21,3 @@ Performing analysis on Kistarter data to uncover trends
 * As mentioned earlier, we need more data from the southern hemisphere. This would help us understand why December is a bad fundraising month.
 
 * It would be very useful to determine if large fundraisers are worth pursuing. Despite their higher failure rate they may raise significant cash.  A graph that plots amount raised vs. goal would help determine the best balance of small, medium, and large campaigns to run.
-
-### Challenge
